@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ÜmitDengiz\\source\\repos\\Yazılım Geliştirici Yetiştirme Kampı\\trial\\Enrty.csproj",
+      "projectUniqueName": "C:\\Users\\ÜmitDengiz\\source\\repos\\Software Developer Camp\\trial\\Enrty.csproj",
       "projectName": "Enrty",
-      "projectPath": "C:\\Users\\ÜmitDengiz\\source\\repos\\Yazılım Geliştirici Yetiştirme Kampı\\trial\\Enrty.csproj",
+      "projectPath": "C:\\Users\\ÜmitDengiz\\source\\repos\\Software Developer Camp\\trial\\Enrty.csproj",
       "packagesPath": "C:\\Users\\ÜmitDengiz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ÜmitDengiz\\source\\repos\\Yazılım Geliştirici Yetiştirme Kampı\\trial\\obj\\",
+      "outputPath": "C:\\Users\\ÜmitDengiz\\source\\repos\\Software Developer Camp\\trial\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ÜmitDengiz\\AppData\\Roaming\\NuGet\\NuGet.Config",

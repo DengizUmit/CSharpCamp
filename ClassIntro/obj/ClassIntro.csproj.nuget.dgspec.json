@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ÜmitDengiz\\source\\repos\\Yazılım Geliştirici Yetiştirme Kampı\\ClassIntro\\ClassIntro.csproj": {}
+    "C:\\Users\\ÜmitDengiz\\source\\repos\\Software Developer Camp\\ClassIntro\\ClassIntro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ÜmitDengiz\\source\\repos\\Yazılım Geliştirici Yetiştirme Kampı\\ClassIntro\\ClassIntro.csproj": {
+    "C:\\Users\\ÜmitDengiz\\source\\repos\\Software Developer Camp\\ClassIntro\\ClassIntro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ÜmitDengiz\\source\\repos\\Yazılım Geliştirici Yetiştirme Kampı\\ClassIntro\\ClassIntro.csproj",
+        "projectUniqueName": "C:\\Users\\ÜmitDengiz\\source\\repos\\Software Developer Camp\\ClassIntro\\ClassIntro.csproj",
         "projectName": "ClassIntro",
-        "projectPath": "C:\\Users\\ÜmitDengiz\\source\\repos\\Yazılım Geliştirici Yetiştirme Kampı\\ClassIntro\\ClassIntro.csproj",
+        "projectPath": "C:\\Users\\ÜmitDengiz\\source\\repos\\Software Developer Camp\\ClassIntro\\ClassIntro.csproj",
         "packagesPath": "C:\\Users\\ÜmitDengiz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ÜmitDengiz\\source\\repos\\Yazılım Geliştirici Yetiştirme Kampı\\ClassIntro\\obj\\",
+        "outputPath": "C:\\Users\\ÜmitDengiz\\source\\repos\\Software Developer Camp\\ClassIntro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ÜmitDengiz\\AppData\\Roaming\\NuGet\\NuGet.Config",

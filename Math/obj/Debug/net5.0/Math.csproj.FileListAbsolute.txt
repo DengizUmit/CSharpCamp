@@ -1,0 +1,16 @@
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\Math\bin\Debug\net5.0\Math.exe
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\Math\bin\Debug\net5.0\Math.deps.json
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\Math\bin\Debug\net5.0\Math.runtimeconfig.json
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\Math\bin\Debug\net5.0\Math.runtimeconfig.dev.json
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\Math\bin\Debug\net5.0\Math.dll
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\Math\bin\Debug\net5.0\ref\Math.dll
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\Math\bin\Debug\net5.0\Math.pdb
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\Math\obj\Debug\net5.0\Math.csprojAssemblyReference.cache
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\Math\obj\Debug\net5.0\Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\Math\obj\Debug\net5.0\Math.AssemblyInfoInputs.cache
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\Math\obj\Debug\net5.0\Math.AssemblyInfo.cs
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\Math\obj\Debug\net5.0\Math.csproj.CoreCompileInputs.cache
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\Math\obj\Debug\net5.0\Math.dll
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\Math\obj\Debug\net5.0\ref\Math.dll
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\Math\obj\Debug\net5.0\Math.pdb
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\Math\obj\Debug\net5.0\Math.genruntimeconfig.cache

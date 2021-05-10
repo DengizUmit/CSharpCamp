@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ÜmitDengiz\\source\\repos\\Yazılım Geliştirici Yetiştirme Kampı\\Loops\\Loops.csproj": {}
+    "C:\\Users\\ÜmitDengiz\\source\\repos\\Software Developer Camp\\Loops\\Loops.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ÜmitDengiz\\source\\repos\\Yazılım Geliştirici Yetiştirme Kampı\\Loops\\Loops.csproj": {
+    "C:\\Users\\ÜmitDengiz\\source\\repos\\Software Developer Camp\\Loops\\Loops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ÜmitDengiz\\source\\repos\\Yazılım Geliştirici Yetiştirme Kampı\\Loops\\Loops.csproj",
+        "projectUniqueName": "C:\\Users\\ÜmitDengiz\\source\\repos\\Software Developer Camp\\Loops\\Loops.csproj",
         "projectName": "Loops",
-        "projectPath": "C:\\Users\\ÜmitDengiz\\source\\repos\\Yazılım Geliştirici Yetiştirme Kampı\\Loops\\Loops.csproj",
+        "projectPath": "C:\\Users\\ÜmitDengiz\\source\\repos\\Software Developer Camp\\Loops\\Loops.csproj",
         "packagesPath": "C:\\Users\\ÜmitDengiz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ÜmitDengiz\\source\\repos\\Yazılım Geliştirici Yetiştirme Kampı\\Loops\\obj\\",
+        "outputPath": "C:\\Users\\ÜmitDengiz\\source\\repos\\Software Developer Camp\\Loops\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ÜmitDengiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
