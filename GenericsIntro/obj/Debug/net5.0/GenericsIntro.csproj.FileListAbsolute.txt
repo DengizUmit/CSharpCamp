@@ -1,0 +1,16 @@
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GenericsIntro\bin\Debug\net5.0\GenericsIntro.exe
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GenericsIntro\bin\Debug\net5.0\GenericsIntro.deps.json
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GenericsIntro\bin\Debug\net5.0\GenericsIntro.runtimeconfig.json
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GenericsIntro\bin\Debug\net5.0\GenericsIntro.runtimeconfig.dev.json
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GenericsIntro\bin\Debug\net5.0\GenericsIntro.dll
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GenericsIntro\bin\Debug\net5.0\ref\GenericsIntro.dll
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GenericsIntro\bin\Debug\net5.0\GenericsIntro.pdb
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GenericsIntro\obj\Debug\net5.0\GenericsIntro.csprojAssemblyReference.cache
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GenericsIntro\obj\Debug\net5.0\GenericsIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GenericsIntro\obj\Debug\net5.0\GenericsIntro.AssemblyInfoInputs.cache
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GenericsIntro\obj\Debug\net5.0\GenericsIntro.AssemblyInfo.cs
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GenericsIntro\obj\Debug\net5.0\GenericsIntro.csproj.CoreCompileInputs.cache
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GenericsIntro\obj\Debug\net5.0\GenericsIntro.dll
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GenericsIntro\obj\Debug\net5.0\ref\GenericsIntro.dll
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GenericsIntro\obj\Debug\net5.0\GenericsIntro.pdb
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GenericsIntro\obj\Debug\net5.0\GenericsIntro.genruntimeconfig.cache
