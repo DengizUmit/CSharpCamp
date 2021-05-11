@@ -9,12 +9,15 @@ namespace OOP3
     class BasvuruManager
     {
         // Method Injections
-        public void BasvuruYap(ICreditBaseManager creditBaseManager, ILoggerService loggerService)
+        public void BasvuruYap(ICreditBaseManager creditBaseManager, List<ILoggerService> loggerServices)
         {
             // Başvuran bilgilerini değerlendirme
             //
             creditBaseManager.Hesapla();
-            loggerService.Log();
+            foreach (var loggerService in loggerServices)
+            {
+                loggerService.Log();
+            }
         }
 
         public void KrediOnBilgilendirmesiYap(List<ICreditBaseManager> credits)
