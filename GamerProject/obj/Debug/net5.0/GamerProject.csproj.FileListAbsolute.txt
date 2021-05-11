@@ -1,0 +1,16 @@
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GamerProject\bin\Debug\net5.0\GamerProject.exe
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GamerProject\bin\Debug\net5.0\GamerProject.deps.json
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GamerProject\bin\Debug\net5.0\GamerProject.runtimeconfig.json
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GamerProject\bin\Debug\net5.0\GamerProject.runtimeconfig.dev.json
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GamerProject\bin\Debug\net5.0\GamerProject.dll
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GamerProject\bin\Debug\net5.0\ref\GamerProject.dll
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GamerProject\bin\Debug\net5.0\GamerProject.pdb
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GamerProject\obj\Debug\net5.0\GamerProject.csprojAssemblyReference.cache
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GamerProject\obj\Debug\net5.0\GamerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GamerProject\obj\Debug\net5.0\GamerProject.AssemblyInfoInputs.cache
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GamerProject\obj\Debug\net5.0\GamerProject.AssemblyInfo.cs
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GamerProject\obj\Debug\net5.0\GamerProject.csproj.CoreCompileInputs.cache
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GamerProject\obj\Debug\net5.0\GamerProject.dll
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GamerProject\obj\Debug\net5.0\ref\GamerProject.dll
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GamerProject\obj\Debug\net5.0\GamerProject.pdb
+C:\Users\ÜmitDengiz\source\repos\Software Developer Camp\GamerProject\obj\Debug\net5.0\GamerProject.genruntimeconfig.cache
