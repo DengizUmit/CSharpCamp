@@ -7,7 +7,7 @@ namespace ValueAndReferenceTypes
         static void Main(string[] args)
         {
 
-            // int, decimal, float, double, bool = Valu Types  --> only Stack
+            // int, decimal, float, double, bool = Value Types  --> only Stack
 
             int number1 = 10;
             int number2 = 30;

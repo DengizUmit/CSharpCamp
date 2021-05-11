@@ -34,7 +34,7 @@ namespace Methods
 
             Console.WriteLine("\tMethods\t");
 
-            // Intance
+            // Instance
             // Encapsulation
 
             BasketManager basketManager = new BasketManager();
